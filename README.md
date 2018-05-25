@@ -1,7 +1,7 @@
 # Client-Server-Instant-messenger
 Contains the code written for a messenger application.
 
-This application allows a client to connect to the local server of your computer. The client can then send and receive message to and from the server.
+This application allows a client to connect to the local server of your computer. The client can then send and receive messages to and from the server.
 
 This code has been written for learning purposes with the help of the following youtuber : "thenewboston"
 Here is a link to his channel : https://www.youtube.com/channel/UCJbPGzawDH1njbqV-D5HqKw
